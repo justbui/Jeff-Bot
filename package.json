@@ -1,0 +1,11 @@
+{
+  "name": "jeff-bot",
+  "version": "1.0.0",
+  "description": "Counts 'Jeff' and reacts",
+  "main": "bot.js",
+  "author": "Justin Bui",
+  "dependencies": {
+    "discord.js": "^12.1.1",
+    "dotenv": "^8.2.0"
+  }
+}
